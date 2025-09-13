@@ -1,0 +1,34 @@
+﻿# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+# Build results
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+.vs/
+# .NET Core
+project.lock.json
+artifacts/
+# Files used by Obsidian that should be ignored:
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/graph.json
+.obsidian/core-plugins.json
+/docs/AuraSolutions.Vault/.obsidian/app.json
+/docs/AuraSolutions.Vault/.obsidian/appearance.json
+/docs/AuraSolutions.Vault/.obsidian/core-plugins.json
+/docs/AuraSolutions.Vault/.obsidian/workspace.json
+.obsidian/.history/
+.obsidian/cache/
+.obsidian/logs/
+.trash/
+node_modules/
+packages/
+*.nupkg
+*.snupkg
